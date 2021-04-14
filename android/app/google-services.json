@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663495695444",
+    "firebase_url": "https://yomak-68fac.firebaseio.com",
+    "project_id": "yomak-68fac",
+    "storage_bucket": "yomak-68fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663495695444:android:7f717f8c0818c53c0961c1",
+        "android_client_info": {
+          "package_name": "com.Elhelbawy.yomak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663495695444-h32em86fvjhj53bg5rgbnrqnou63ud4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWAElE3v9B9ysamf7fKEep3mYg8iU79dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663495695444-h32em86fvjhj53bg5rgbnrqnou63ud4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
